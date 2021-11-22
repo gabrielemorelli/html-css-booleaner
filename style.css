@@ -1,0 +1,48 @@
+.contenitoreesterno{
+    background-color: rgb(24, 52, 211);
+    background-repeat:repeat-x;
+    background-image: url(img/pattern.png);
+    width: 100%;
+    height: 180px;
+    position: relative;
+}
+
+.contenitoreinterno{
+    background-image: url(img/logo.svg);
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    left:10px ;
+    bottom:10px;
+}
+
+#evidenziatore1{
+ background-color: rgb(0, 89, 255);
+}
+
+.evidenziatore2{
+    background-color: rgba(255, 255, 0, 0.938);
+}
+
+    
+table{
+width: 100%;
+border-collapse:collapse;
+text-align: left;
+}
+
+thead{
+    color: rgba(255, 248, 220, 0.925);
+    background-color: rgb(0, 195, 255);
+        }
+
+.riga td{
+  background-color: rgb(100, 210, 237);
+  width: 25%;
+}
+
+footer h2{
+        color: rgba(169, 169, 169, 0.89);
+}
+
+
